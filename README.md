@@ -1,5 +1,5 @@
 # IE12
-A oh-so-terrible HTML rendering engine implemented for
+An oh-so-terrible HTML rendering engine implemented for
 DE1-SoC (C5SEMA5F31C6).
 
 Capable of rendering **p**, **div**, **h1** tags following a static layout.
